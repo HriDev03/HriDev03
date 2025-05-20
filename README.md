@@ -84,6 +84,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HriDev03/HriDev03/output/snake.svg" alt="Snake animation" />
-
 ###
