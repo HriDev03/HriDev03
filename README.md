@@ -4,12 +4,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HriDev03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HriDev03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img align="right" height="147" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAd/coding.gif"  />
 </div>
 
-<img align="right" height="147" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAd/coding.gif"  />
-###
 
 <br clear="both">
 
