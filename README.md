@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋! My name is Hridyesh</h1>
-<h2> I am a Full Stack Developer Based out of Hyderabad</h2>
+<h1 align="left">Hi My name is Hridyesh👋!</h1>
+<h2> I am a Full Stack Developer</h2>
 
 
 ###
