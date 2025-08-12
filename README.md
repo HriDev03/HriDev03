@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img align="left" width=600 src="https://github-readme-stats.vercel.app/api/top-langs?username=HriDev03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="languages graph"  />
+  <img align="left" width=600 src="https://github-readme-stats.vercel.app/api/top-langs?username=HriDev03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="155" alt="languages graph"  />
 <img align="right"  width=300 height="165" src="https://media1.tenor.com/m/-UygBh3nnfEAAAAd/coding.gif"  />
 </div>
 
